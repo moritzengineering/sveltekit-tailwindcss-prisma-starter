@@ -1,5 +1,14 @@
 # Sveltekit, Tailwind CSS & Prisma Starter
 
+<p class="container" align="center">
+    <img height="298" src="https://i.imgur.com/HGCgiur.png" />
+    <img height="298" src="https://i.imgur.com/WesU0uS.png" />
+    <span data-ratio="16-9">
+    	<img height="450" src="https://i.imgur.com/X8rJluk.png" />
+    </span>
+</p>
+<br/>
+
 ## Install
 
 ```sh
