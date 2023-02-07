@@ -9,6 +9,10 @@
 </p>
 <br/>
 
+## Demo
+
+- https://sveltekit-tailwindcss-prisma-starter.vercel.app
+
 ## Install
 
 ```sh
