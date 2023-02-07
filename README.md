@@ -37,7 +37,7 @@ cp .env.example .env
    datasource db {
    - provider = "sqlite"
    + provider = "mysql"
-   url = env("DATABASE_URL")
+     url = env("DATABASE_URL")
    + relationMode = "prisma"
    }
    ```
